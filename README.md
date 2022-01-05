@@ -6,8 +6,6 @@
      I am also taking Web development courses at Digital Innovation One and Python courses at Coursera.
 - 👯 At the moment I am not collaborating but looking to contribute.
 - 🤔 I'm looking for help to anyone who wants to help me in the above matter.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: He / She
 
 
