@@ -1,9 +1,8 @@
 ### Hi, my name is Daniel Marques 👋
 
-
-- 🔭 I am currently looking for work in the areas of Support, .NET and Python development, Cloud and Infrastructure.
 - 🌱 I am a Computer Engineering student, currently in my second year. I have studied Python (love this language), MySQL and SQL Server databases and am currently programming in .NET C# (love it too)using the concepts of Object Oriented Programming (OOP). My outlook for the future is to work with Cloud and become a DevOps Engineer.
 I have already set a goal this year to get my first AWS Practitioner and Azure A-900 certification and I am already working on that with AWS Builder and Microsoft Learn trainings.
+- 🔭 I am currently looking for work in the areas of Support, .NET and Python development, Cloud and Infrastructure.
 - 👯 At the moment I am not collaborating but looking to contribute.
 - 🤔 I'm looking for help to anyone who wants to help me in the above matter.
 - 😄 Pronouns: He / She
